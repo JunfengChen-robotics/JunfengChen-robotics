@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Junfeng Chen
 
-Welcome to my GitHub profile! I'm passionate about robotics, AI. I focus on **robot motion planning**, **multi-agent systems**, and **robot learning**. Feel free to explore my repositories and contribute to open-source projects! Also you can transfers to our orgnization **MRIL**(https://github.com/TRIO-PKU)  to explore more !
+Welcome to my GitHub profile! I'm passionate about robotics, AI. I focus on **robot motion planning**, **multi-agent systems**, and **robot learning**. Feel free to explore my repositories and contribute to open-source projects! Also you can transfers to our orgnization **[MRIL](https://github.com/TRIO-PKU)** to explore more !
 
 ---
 
