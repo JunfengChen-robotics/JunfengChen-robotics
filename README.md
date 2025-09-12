@@ -1,23 +1,24 @@
 # 👋 Hi, I'm Junfeng Chen
 
-Welcome to my GitHub profile! I'm passionate about robotics, AI. I focus on **robot motion planning**, **multi-agent systems**, and **robot learning**. Feel free to explore my repositories and contribute to open-source projects! Also you can transfers to our orgnization **[MRIL](https://github.com/TRIO-PKU)** to explore more !
+Welcome to my GitHub profile! I'm passionate about robotics and AI. I focus on **multi-robot system**, **robot planning**, and **robot learning**. Feel free to explore my repositories and contribute to open-source projects! Also you can transfers to our orgnization **[MRIL](https://github.com/TRIO-PKU)** to explore more !
 
 ---
 
 ## 🌱 Currently working on
-- **Multi-robot collaboration** and **motion planning** algorithms.
-- **3D reconstruction** using drones and sensor fusion techniques.
-- Improving **robot control** and **machine learning** models.
-
+- **Distributed Multi-robot task planning** algorithms in large-scale robots.
+- **Hybrid optimization planning** algorithms in dynamic scenarios.
+- **LLM enhanced task planning** algorithms in open and unknown environments.
+- **Intermitent communication based task planning** algorithms in communication-constrained scenarios.
+  
 ---
 
 ## 🛠️ Technologies & Tools
-- 🐍 Python
+- 🐍 Python, C++, Matlab, C#
 - 🤖 ROS (Robot Operating System)
-- 🧠 Machine Learning (ML)
+- 🧠 Machine Learning (ML), RL, Graph learning
 - 🔧 Git & GitHub
-- 🎮 Robotics Simulation & Control
-- 🚁 Tello & Crazyflie drones
+- 🎮 Robotics Simulator (Gazebo, mujuco, pybullet, issac gym, unity) and CATIA, AutoCAD
+- 🚁 Robotic Platform  (Tello, crazyflies, quadrator, turtlebot, kkswarm, Scout, AgileX, Go2)
 
 ---
 
