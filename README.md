@@ -5,11 +5,27 @@ Welcome to my GitHub profile! I'm passionate about robotics and AI. I focus on *
 ---
 
 ## 🌱 Currently working on
-- **Distributed Multi-robot task planning** algorithms in large-scale robots.
-- **Hybrid optimization planning** algorithms in dynamic scenarios.
-- **LLM enhanced task planning** algorithms in open and unknown environments.
-- **Intermitent communication based task planning** algorithms in communication-constrained scenarios.
-  
+- **Distributed Multi-robot task planning** algorithms in large-scale robots.  
+    ![Distributed Multi-robot](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
+- **Hybrid optimization planning** algorithms in dynamic scenarios.  
+    ![Hybrid Optimization](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
+
+- **LLM enhanced task planning** algorithms in open and unknown environments.  
+    ![LLM Enhanced Planning](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+
+- **Intermitent communication based task planning** algorithms in communication-constrained scenarios.  
+    ![Intermittent Communication](https://media.giphy.com/media/3o6Zt8zb1Pp2v3bF7y/giphy.gif)
+
+- **RL-based intelligent multi-robot system** 
+ ![Intelligent Robots]()
+
+- **Meta Learning in multi-robot system**
+  ![Meta Learning](https://youtu.be/sxYdGW2zbp8)
+
+- **Robotics Simulator** design in the robotic community
+   ![Robotic Simulator]() 
+    
 ---
 
 ## 🛠️ Technologies & Tools
@@ -17,7 +33,7 @@ Welcome to my GitHub profile! I'm passionate about robotics and AI. I focus on *
 - 🤖 ROS (Robot Operating System)
 - 🧠 Machine Learning (ML), RL, Graph learning
 - 🔧 Git & GitHub
-- 🎮 Robotics Simulator (Gazebo, mujuco, pybullet, issac gym, unity) and CATIA, AutoCAD
+- 🎮 Robotics Simulator (Gazebo,issac gym, unity, mujuco, pybullet) and CATIA, AutoCAD
 - 🚁 Robotic Platform  (Tello, crazyflies, quadrator, turtlebot, kkswarm, Scout, AgileX, Go2)
 
 ---
@@ -26,18 +42,12 @@ Welcome to my GitHub profile! I'm passionate about robotics and AI. I focus on *
 
 ![Junfeng Chen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JunfengChen-robotics&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
+
 ---
 
-## 💡 Some of my projects
+## 🤝 Collaboration & Contact
 
-### 🧩 **Multi-Robot Systems**
-- **[multi-pursuit-envsion](https://github.com/JunfengChen-robotics/multi-pursuit-envsion)**: A multi-robot pursuit-environment simulation project.
-- **[evader-pursuer](https://github.com/JunfengChen-robotics/evader-pursuer)**: A project focused on evader-pursuer dynamics and control in multi-robot scenarios.
+- 📫 Email: [chenjunfeng@stu.pku.edu.cn]
+- 🌐 Personal Website: [your-website.com]
+- 💬 Always open to academic collaboration, internships, and open-source contributions!
 
-### 🚀 **Drone & 3D Reconstruction**
-- **[tello_3d_reconstruction](https://github.com/JunfengChen-robotics/tello_3d_reconstruction)**: 3D reconstruction with Tello drones.
-- **[capture2d3](https://github.com/JunfengChen-robotics/capture2d3)**: A project focused on capturing and reconstructing 3D data using multi-camera setups.
-
-### 🤖 **Robotics Control**
-- **[robot-motion-planning](https://github.com/JunfengChen-robotics/robot-motion-planning)**: Algorithms for planning robot motions.
-- **[hybrid_control_match](https://github.com/JunfengChen-robotics/hybr)**
