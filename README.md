@@ -6,25 +6,27 @@ Welcome to my GitHub profile! I'm passionate about robotics and AI. I focus on *
 
 ## 🌱 Currently working on
 - **Distributed Multi-robot task planning** algorithms in large-scale robots.  
-    ![Distributed Multi-robot](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+    ![Distributed Multi-robot](./videos/ral.gif)
 
 - **Hybrid optimization planning** algorithms in dynamic scenarios.  
-    ![Hybrid Optimization](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
+    ![Hybrid Optimization](../videos/capture.gif)
 
 - **LLM enhanced task planning** algorithms in open and unknown environments.  
-    ![LLM Enhanced Planning](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+    ![LLM Enhanced Planning](../videos/dexter.gif)
+    ![LLM Enhanced Planning](../videos/llm.gif)
 
 - **Intermitent communication based task planning** algorithms in communication-constrained scenarios.  
-    ![Intermittent Communication](https://media.giphy.com/media/3o6Zt8zb1Pp2v3bF7y/giphy.gif)
+    ![Intermittent Communication](../videos/slei3D-1.gif)
+    ![Intermittent Communication](../videos/comm-1.gif)
 
 - **RL-based intelligent multi-robot system** 
- ![Intelligent Robots]()
+ ![Intelligent Robots](../videos/intelligent.gif)
 
 - **Meta Learning in multi-robot system**
-  ![Meta Learning](https://youtu.be/sxYdGW2zbp8)
+  ![Meta Learning](../videos/meta.gif)
 
 - **Robotics Simulator** design in the robotic community
-   ![Robotic Simulator]() 
+   ![Robotic Simulator](MultiRoboLearn.gif) 
     
 ---
 
@@ -34,7 +36,8 @@ Welcome to my GitHub profile! I'm passionate about robotics and AI. I focus on *
 - 🧠 Machine Learning (ML), RL, Graph learning
 - 🔧 Git & GitHub
 - 🎮 Robotics Simulator (Gazebo,issac gym, unity, mujuco, pybullet) and CATIA, AutoCAD
-- 🚁 Robotic Platform  (Tello, crazyflies, quadrator, turtlebot, kkswarm, Scout, AgileX, Go2)
+- 🚁 Robotic Platform  (Tello, crazyflies, quadrator, turtlebot, kkswarm, Scout, AgileX, Go2), heterogeneous multi-robot 
+     system
 
 ---
 
@@ -51,3 +54,13 @@ Welcome to my GitHub profile! I'm passionate about robotics and AI. I focus on *
 - 🌐 Personal Website: [your-website.com]
 - 💬 Always open to academic collaboration, internships, and open-source contributions!
 
+
+---
+
+## Experimental Activity
+
+- **Large-scale catching system**
+  ![cathch](../images/catch.jpg)
+- **Heterogeneous multi-robot system**
+  ![hetero]()
+  
