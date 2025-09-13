@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm passionate about robotics and AI. I focus on *
  ![Intelligent Robots](./videos/intelligent.gif)
 
 - **Meta Learning in multi-robot system**
-  ![Meta Learning](./videos/meta.gif)
+  ![Meta Learning](./videos/Meta.gif)
 
 - **Robotics Simulator** design in the robotic community
   ![Robotic Simulator](./videos/MultiRoboLearn.gif)  <!-- 检查文件是否存在，路径是否正确 -->
@@ -97,10 +97,10 @@ Welcome to my GitHub profile! I'm passionate about robotics and AI. I focus on *
 <i>Intense competition, rapid strategies, and the thrill of the challenge—this is where intelligent agents push their limits.</i>
 <br><br>
 
-<b>🌟 LLM Team Special Edition (JPG)</b><br>
-![LLM Group Photo JPG](./images/group_Photo_LLM.jpg)
+<b>🌟 Hybrid Control Course Competition Highlight</b><br>
+![Mixed Control Course Group Photo](./images/total.webp)
 <br>
-<i>A different perspective on our team—cherished memories and moments worth revisiting.</i>
+<i>A memorable group photo from the graduate-level Hybrid Control course competition—showcasing the excitement, teamwork, and achievements of all participants.</i>
 <br>
 
 </div>
