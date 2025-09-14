@@ -91,6 +91,14 @@ Welcome to my GitHub profile! I'm passionate about robotics and AI. I focus on *
 <i>Robots collaborating in 3D space—where technology meets aesthetics, and innovation becomes art.</i>
 <br><br>
 
+<b>🎨 Ambush: A Multi-agent System Showcase</b><br>
+![SLEI3D Group Photo](./images/hybrid.webp)
+<br>
+<i>Intelligent Gme System: Multi-agent strategic competition
+and cooperation in complex environments.</i>
+<br><br>
+
+
 <b>🏆 Competition Highlight: The Ultimate Showdown</b><br>
 ![Competition Highlight](./images/competion.webp)
 <br>
